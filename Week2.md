@@ -13,7 +13,7 @@
 - ✅ Solve daily coding problem on leetcode 
 - ✅ Made half of the ppt to submit for Google cloud Agentic AI Hackathon
 
-NOTE : I am Out of station from July 6th to july 15th. But I tried to give some OA's.
+NOTE : I was Out of station from July 6th to july 15th. But I tried to give some OA's.
 
 ## 📅 July 6th, 2025 to July 9th, 2025
 - ✅ Just solved daily coding problem on leetcode
