@@ -1,36 +1,19 @@
 # 🚀 100 Days of Code – Week 2 (July 3 – July 9, 2025)
 
 ## 📅 July 3, 2025
-- ✅ Did DSA Recursion from Striver’s A2Z Sheet  
-- ✅ HTML Revision  
-- ✅ Worked on Bolt.new Hackathon  
+- ✅ Just solved Daily leetcode problem  
+- ✅ Worked for Google Cloud Agentic AI Hackathon 
 
-## 📅 June 27, 2025
-- ✅ Continued DSA Recursion  
-- ✅ HTML + CSS Revision  
-- ✅ Internship work  
-- ✅ Worked on Bolt.new Hackathon  
+## 📅 July 4, 2025
+- ✅ Did python flask 
+- ✅ Gave OA for media.net  
+- ✅ Did DSA Recursion + Daily coding problem on leetcode
 
-## 📅 June 28, 2025
-- ✅ DSA: Recursion  
-- ✅ HTML + CSS + JS Revision  
-- ✅ Internship work  
-- ✅ Worked on Bolt.new Hackathon  
-- ✅ Explored Open Source  
+## 📅 July 5th, 2025
+- ✅ Solve daily coding problem on leetcode 
+- ✅ Made half of the ppt to submit for Google cloud Agentic AI Hackathon
 
-## 📅 June 29, 2025
-- ✅ Participated in LeetCode Weekly Contest #456 (first time!)  
-- ✅ Internship work  
-- ✅ Worked on Bolt.new Hackathon  
-- ✅ Continued exploring Open Source  
+NOTE : I am Out of station from July 6th to july 15th. But I tried to give some OA's.
 
-## 📅 June 30, 2025
-- ✅ Upsolved LeetCode Contest #456 problems  
-- ✅ Internship work  
-- ✅ Worked on Bolt.new Hackathon  
-- ✅ Open Source exploration  
-
-## 📅 July 1, 2025
-- ✅ Made my first Pull Request on GitHub 🎉  
-- ✅ Upsolved LeetCode Contest #456 questions  
-- ✅ Worked on Bolt.new Hackathon  
+## 📅 July 6th, 2025 to July 9th, 2025
+- ✅ Just solved daily coding problem on leetcode
